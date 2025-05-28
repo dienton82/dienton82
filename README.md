@@ -1,6 +1,6 @@
 <!-- Banner -->
-
-<h1 align="center">👨‍💻 Yeison Álvarez — Full Stack Developer</h1>
+[![Avatar de Yeison Alvarez](https://avatars.githubusercontent.com/u/170985141)](https://portafolio-ya.vercel.app)
+<h1 align="center">👨‍💻 Yeison Alvarez — Desarrollador Web</h1>
 <p align="center">
   <b>Frontend + Backend + UI/UX Design</b><br>
   <i>Ingeniero de Sistemas | Desarrollador Web | Construyamos juntos proyectos innovadores y funcionales.</i>
