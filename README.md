@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://portafolio-ya.vercel.app/">
-</p>
 
 <h1 align="center">👨‍💻 Yeison Álvarez — Full Stack Developer</h1>
 <p align="center">
