@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://portafolio-ya.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperfil.e2789a13.png&w=640&q=75" width="150" alt="Yeison Alvarez Avatar">
+  <img src="https://portafolio-ya.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperfil.e2789a13.png&w=640&q=75" width="150">
 </p>
 
 <h1 align="center">👨‍💻 Yeison Álvarez — Full Stack Developer</h1>
 <p align="center">
   <b>Frontend + Backend + UI/UX Design</b><br>
-  <i>Ingeniero de Sistemas | Desarrollador Web | onstruyamos juntos proyectos innovadores y funcionales.</i>
+  <i>Ingeniero de Sistemas | Desarrollador Web | Construyamos juntos proyectos innovadores y funcionales.</i>
 </p>
 
 ---
