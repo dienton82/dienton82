@@ -61,9 +61,9 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 ## 📂 Proyectos Destacados
 
 | Proyecto | Tecnologías | Descripción |
-|---------|-------------|-------------|
+|-----------|---------------|-------------|
 | **Portafolio Personal** | Next.js, Tailwind, TypeScript | Sitio profesional con animaciones, sección de contacto, proyectos y CV |
-| **Gestor de Notas (Vue 3)**   | Vue 3, Vite, Pinia | Composition API, CRUD de notas, login JWT, filtros y despliegue en GitHub Pages |
+| **Gestor de Notas (Vue 3)** | Vue 3, Vite, Pinia | Composition API, CRUD de notas, login JWT, filtros y despliegue en GitHub Pages |
 | **Facturación Web** | PHP, MySQL | Sistema completo de facturación, usuarios, generación de PDFs |
 | **Gestión de usuarios** en |Angular TypeScript con RxJS |  APIs externas y pruebas con Jasmine y Cypress |
 
