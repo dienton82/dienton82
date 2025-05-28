@@ -73,16 +73,6 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 
 <img src="https://raw.githubusercontent.com/dienton82/portafolio-yeison-alvarez/f5cd9363152faae683754ae569783931d732dfc9/Speed%20Insights%20100%25.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
 
----
-
-## 📂 Proyectos Destacados
-
-| Proyecto | Tecnologías | Descripción |
-|---------------|---------------|-------------|
-| **Portafolio Personal** | Next.js, Tailwind, TypeScript | Sitio profesional con animaciones, sección de contacto, proyectos y CV |
-| **Gestor de Notas (Vue 3)**    | Vue 3, Vite, Pinia | Composition API, CRUD de notas, login JWT, filtros y despliegue en GitHub Pages |
-| **Facturación Web** | PHP, MySQL | Sistema completo de facturación, usuarios, generación de PDFs |
-| **Gestión de usuarios** en | Angular TypeScript con RxJS |  APIs externas y pruebas con Jasmine y Cypress |
 
 ---
 
