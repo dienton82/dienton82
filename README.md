@@ -57,6 +57,26 @@
 
 ---
 
+## 📈 Vercel Speed Insights
+
+Este portafolio ha sido optimizado para lograr el mejor rendimiento posible.
+
+### ✅ 100 / 100 en Experiencia Real
+
+Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes inteligentes con `next/image`, `TailwindCSS`, y `Vercel Edge`.
+
+📊 **Métricas clave**:
+
+- ⏱️ First Contentful Paint: 0.59s  
+- 📸 Largest Contentful Paint: 1.86s  
+- ⚡ Interaction to Next Paint: 120ms  
+- 🔒 Cumulative Layout Shift: 0  
+- ⚙️ Time to First Byte: 0.1s
+
+<img src="https://raw.githubusercontent.com/dienton82/nextjs-multifetch-demo/main/public/vercel-speed-100.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
+
+---
+
 ## 📫 Contacto
 
 - 📧 Email: [yealvarezg82@gmail.com](mailto:yealvarezg82@gmail.com)
