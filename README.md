@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://portafolio-ya.vercel.app">
-    <img src="https://avatars.githubusercontent.com/u/170985141" width="80" alt="Yeison Alvarez Avatar" />
+    <img src="https://github.com/dienton82/portafolio-yeison-alvarez/blob/main/REFLEJOya.png" width="80" alt="Yeison Alvarez Avatar" />
   </a>
 </p>
 <h1 align="center">👨‍💻 Yeison Alvarez — Desarrollador Web</h1>
