@@ -90,6 +90,7 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 - 💼 LinkedIn: [Eduardo Álvarez](https://linkedin.com/in/eduardo-alvarez-ea)
 - 🌐 Portafolio: [https://portafolio-ya.vercel.app](https://portafolio-ya.vercel.app)
 - 📱 WhatsApp: [Chatear](https://wa.link/wtk3ys)
+- 📄 Accede a mi [CV completo](https://archivospdfresumen.s3.us-east-2.amazonaws.com/Curriculum_Yeison_Alvarez_Ingeniero_de_Sistemas_Desarrollador_Web.pdf)
 
 ---
 
