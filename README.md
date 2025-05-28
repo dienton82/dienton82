@@ -9,6 +9,7 @@
   <b>Frontend + Backend + UI/UX Design</b><br>
   <i>Ingeniero de Sistemas con enfoque en desarrollo web moderno, diseño funcional y experiencia de usuario.</i>
 </p>
+
 ---
 
 ## 🚀 Tecnologías Principales
