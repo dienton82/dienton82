@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://portafolio-ya.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperfil.e2789a13.png&w=640&q=75" width="150">
+  <img src="https://portafolio-ya.vercel.app/">
 </p>
 
 <h1 align="center">👨‍💻 Yeison Álvarez — Full Stack Developer</h1>
