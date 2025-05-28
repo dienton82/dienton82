@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  [![Avatar de Yeison Alvarez](https://avatars.githubusercontent.com/u/170985141)](https://portafolio-ya.vercel.app) width="150" alt="Yeison Alvarez Avatar">
+  <a href="https://portafolio-ya.vercel.app">
+    <img src="https://avatars.githubusercontent.com/u/170985141" width="150" alt="Yeison Alvarez Avatar" />
+  </a>
 </p>
 <h1 align="center">👨‍💻 Yeison Alvarez — Desarrollador Web</h1>
 <p align="center">
