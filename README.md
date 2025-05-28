@@ -73,7 +73,7 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 - Diseño UI/UX responsivo y accesible
 - Despliegue en Vercel y AWS
 - Creación de componentes reutilizables y accesibles
-- Animaciones con Framer Motion y shadcn/ui
+- Animaciones con CSS Modules, Framer Motion y shadcn/ui
 
 ---
 
