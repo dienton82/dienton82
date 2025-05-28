@@ -18,17 +18,6 @@
 
 ---
 
-## 🧠 Áreas de enfoque
-
-- Desarrollo Frontend moderno con React / Vue
-- Backends con Node.js, PHP, y bases de datos relacionales y no relacionales
-- Diseño UI/UX responsivo y accesible
-- Despliegue en Vercel y AWS
-- Creación de componentes reutilizables y accesibles
-- Animaciones con Framer Motion y shadcn/ui
-
----
-
 ## 📈 Vercel Speed Insights
 
 Este portafolio ha sido optimizado para lograr el mejor rendimiento posible.
@@ -73,7 +62,16 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 | **Facturación Web** | PHP, MySQL | Sistema completo de facturación, usuarios, generación de PDFs |
 | **Gestión de usuarios** en |Angular TypeScript con RxJS |  APIs externas y pruebas con Jasmine y Cypress |
 
+---
 
+## 🧠 Áreas de enfoque
+
+- Desarrollo Frontend moderno con React / Vue
+- Backends con Node.js, PHP, y bases de datos relacionales y no relacionales
+- Diseño UI/UX responsivo y accesible
+- Despliegue en Vercel y AWS
+- Creación de componentes reutilizables y accesibles
+- Animaciones con Framer Motion y shadcn/ui
 
 ---
 
