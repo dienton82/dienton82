@@ -41,7 +41,7 @@
 |----------|-------------|-------------|--------|
 | 💼 [Portafolio Web](https://github.com/dienton82/portafolio-yeison-alvarez) | Portafolio personal optimizado con Next.js y Tailwind CSS, despliegue en Vercel, animaciones con Framer Motion. | Next.js, TypeScript, TailwindCSS, Vercel | 🌐 [Ver sitio](https://portafolio-ya.vercel.app) |
 | 📝 [Gestor de Notas](https://github.com/dienton82/Gestor-de-Notas) | SPA con Vue 3 y Pinia, CRUD de notas, login JWT, agrupación por fechas, filtros y despliegue en GitHub Pages. | Vue 3, Pinia, Vite | 🌐 [Ver demo](https://dienton82.github.io/Gestor-de-Notas/) |
-| 📄 [Sistema de Facturación PHP](https://github.com/dienton82/facturacion-php) | Gestión de usuarios, cursos, facturación y PDF con autenticación. Ideal para pequeñas empresas. | PHP, MySQL, HTML, CSS | 🌐 [Ver demo](https://github.com/dienton82/facturacion-web) |
+| 📄 [Sistema de Facturación PHP](https://github.com/dienton82/facturacion-web) | Gestión de usuarios, cursos, facturación y PDF con autenticación. Ideal para pequeñas empresas. | PHP, MySQL, HTML, CSS | 🌐 [Ver demo](https://github.com/dienton82/facturacion-web) |
 | 👥 [Gestión de Usuarios Angular](https://github.com/dienton82/proyecto-angular) | App SPA con Angular y RxJS para CRUD de usuarios y perfiles. Pruebas unitarias y E2E. | Angular, Tailwind, RxJS | 🌐 [Ver demo](https://dienton82.github.io/proyecto-angular/users) |
 | ⚙️ [Next.js Multifetch Demo](https://github.com/dienton82/pruebas-tecnicas-nextjs) | Proyecto con múltiples estrategias de renderizado (CSR, SSR, SSG, ISR), consumo de APIs públicas y componentes reutilizables. Ideal para prácticas técnicas. | Next.js, Tailwind CSS, TypeScript | 🌐 [Ver demo](https://nextjs-multifetch-demo.vercel.app/) |
 
