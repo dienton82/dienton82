@@ -6,7 +6,7 @@
 <h1 align="center">👨‍💻 Yeison Álvarez — Full Stack Developer</h1>
 <p align="center">
   <b>Frontend + Backend + UI/UX Design</b><br>
-  <i>Ingeniero de Sistemas | Desarrollador Web | Apasionado por la tecnología</i>
+  <i>Ingeniero de Sistemas | Desarrollador Web | onstruyamos juntos proyectos innovadores y funcionales.</i>
 </p>
 
 ---
