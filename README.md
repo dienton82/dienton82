@@ -73,7 +73,7 @@ Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes
 - 🔒 Cumulative Layout Shift: 0  
 - ⚙️ Time to First Byte: 0.1s
 
-<img src="https://raw.githubusercontent.com/dienton82/nextjs-multifetch-demo/main/public/vercel-speed-100.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
+<img src="Speed Insights 100%.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
 
 ---
 
