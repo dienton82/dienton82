@@ -1,245 +1,303 @@
-```{=html}
+<!-- ========================================================= -->
+<!-- HEADER -->
+<!-- ========================================================= -->
+
 <p align="center">
-```
-`<a href="https://portafolio-ya.vercel.app">`{=html}
-`<img src="https://github.com/dienton82/portafolio-yeison-alvarez/blob/main/REFLEJOya.png" width="160" alt="Yeison Alvarez"/>`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://portafolio-ya.vercel.app">
+    <img src="https://github.com/dienton82/portafolio-yeison-alvarez/blob/main/REFLEJOya.png" width="150" alt="Yeison Alvarez"/>
+  </a>
 </p>
-```
-```{=html}
+
 <h1 align="center">
-```
-Yeison Eduardo Álvarez García
-```{=html}
+👋 Hola, soy Yeison Eduardo Álvarez García
 </h1>
-```
-```{=html}
+
 <h3 align="center">
-```
-Frontend Developer · Full Stack · Desarrollo impulsado por Inteligencia
-Artificial
-```{=html}
+🚀 Frontend Developer | Full Stack | Desarrollo Asistido con Inteligencia Artificial
 </h3>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://portafolio-ya.vercel.app">`{=html}`<img src="https://img.shields.io/badge/Portafolio-Visitar-2563EB?style=for-the-badge">`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/eduardo-alvarez-ea">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
-`<a href="https://github.com/dienton82">`{=html}`<img src="https://img.shields.io/badge/GitHub-dienton82-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
-```{=html}
+
+Ingeniero de Sistemas apasionado por construir aplicaciones web modernas, escalables y con una excelente experiencia de usuario.
+
+Especializado en React, Next.js, Angular, Vue y desarrollo asistido con Inteligencia Artificial.
+
 </p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
 
-# Perfil
+<a href="https://portafolio-ya.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portafolio-Ver%20sitio-2563EB?style=for-the-badge"/>
+</a>
 
-Ingeniero de Sistemas con más de **5 años de experiencia** desarrollando
-aplicaciones web modernas.
+<a href="https://linkedin.com/in/eduardo-alvarez-ea">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Especializado en **React, Next.js, Angular, Vue, TypeScript y
-JavaScript**, con experiencia construyendo dashboards, aplicaciones
-corporativas, integración de APIs REST y soluciones enfocadas en
-rendimiento, mantenibilidad y experiencia de usuario.
+<a href="https://github.com/dienton82">
+<img src="https://img.shields.io/badge/GitHub-dienton82-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Actualmente incorporo herramientas de Inteligencia Artificial para
-acelerar el desarrollo, optimizar procesos y mejorar la calidad del
-software.
+</p>
 
-------------------------------------------------------------------------
+---
 
-# Desarrollo con Inteligencia Artificial
+# 👨‍💻 Sobre mí
 
-## Herramientas
+Soy **Ingeniero de Sistemas** con más de **5 años de experiencia** desarrollando aplicaciones web modernas.
 
--   ChatGPT
--   Claude
--   OpenAI Codex
--   GitHub Copilot
+Me especializo en el desarrollo Frontend utilizando tecnologías como React, Next.js, Angular, Vue, JavaScript y TypeScript.
 
-## Aplicaciones
+También cuento con experiencia Full Stack integrando APIs REST, bases de datos y servicios backend.
 
--   Prompt Engineering
--   Diseño de Arquitectura
--   Desarrollo Asistido por IA
--   Refactorización
--   Debugging
--   Revisión de Código
--   Documentación Técnica
--   Optimización de Rendimiento
--   Automatización de tareas
+Actualmente incorporo herramientas de Inteligencia Artificial durante todo el ciclo de desarrollo para acelerar la entrega de software sin sacrificar calidad, mantenibilidad ni buenas prácticas.
 
-------------------------------------------------------------------------
+---
 
-# Stack Tecnológico
+# 🤖 Desarrollo Asistido con Inteligencia Artificial
+
+La IA hace parte de mi flujo diario de desarrollo.
+
+## Herramientas que utilizo
+
+- 🤖 ChatGPT
+- 🤖 Claude
+- 🤖 OpenAI Codex
+- 🤖 GitHub Copilot
+
+## Aplicaciones de IA
+
+- Prompt Engineering
+- Diseño de arquitectura
+- Desarrollo de componentes
+- Generación de código
+- Refactorización
+- Debugging
+- Optimización de rendimiento
+- Documentación técnica
+- Revisión de código
+- Automatización de tareas
+- Preparación para entrevistas técnicas
+
+Siempre valido, adapto y optimizo el código generado antes de utilizarlo en proyectos reales.
+
+---
+
+# 🚀 Stack Tecnológico
 
 ## Frontend
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,sass"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,sass"/>
+
 </p>
-```
+
 ## Backend
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,php,python,java"/>`{=html}
-```{=html}
-</p>
-```
-## Bases de Datos
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java"/>
+
 </p>
-```
+
+## Bases de datos
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
 ## Herramientas
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma,vercel"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# Proyectos Destacados
+# 🌟 Proyectos Destacados
 
-## Spybee Incident Management Dashboard
+---
 
-**Next.js · React · TypeScript · Zustand · Mapbox · SCSS**
+# 🛰️ Spybee Incident Management Dashboard
 
-Dashboard de gestión de incidencias con mapa interactivo, filtros,
-métricas, persistencia local y diseño responsive.
+### Tecnologías
 
-**Demo** https://spybee-frontend-technical-test.vercel.app
+Next.js • React • TypeScript • Zustand • Mapbox • SCSS • Vercel
 
-**Repositorio**
+Dashboard de gestión de incidencias desarrollado como prueba técnica.
+
+### Características
+
+✅ Dashboard Analítico
+
+✅ Gestión de Incidencias
+
+✅ Visualización Geográfica con Mapbox
+
+✅ Persistencia Local
+
+✅ Responsive Design
+
+✅ Arquitectura Modular
+
+✅ Estado Global con Zustand
+
+### 🌐 Demo
+
+https://spybee-frontend-technical-test.vercel.app
+
+### 💻 Repositorio
+
 https://github.com/dienton82/spybee-frontend-technical-test
 
-------------------------------------------------------------------------
+---
 
-## Topaz AI Document Generator
+# 📄 Topaz AI Document Generator
 
-**React · TypeScript**
+### Tecnologías
 
-Plataforma para generación documental y aceleradores asistidos con IA.
+React • TypeScript
+
+Proyecto orientado a generación documental utilizando flujos asistidos con Inteligencia Artificial.
+
+### 🌐 Demo
 
 https://documentador-topaz.vercel.app/aceleradores
 
-------------------------------------------------------------------------
+---
 
-## BTG Funds Dashboard
+# 💰 BTG Funds Dashboard
 
-**Angular**
+### Tecnologías
 
-Dashboard financiero construido con Angular.
+Angular
+
+Dashboard financiero desarrollado con Angular siguiendo una arquitectura modular y utilizando IA durante el desarrollo.
+
+### 🌐 Demo
 
 https://dienton82.github.io/btg-funds-app/
 
-------------------------------------------------------------------------
+---
 
-## Gestor de Notas
+# 📝 Gestor de Notas
 
-**Vue 3**
+### Tecnologías
 
-Aplicación CRUD desarrollada con Vue Composition API.
+Vue 3
+
+Aplicación CRUD desarrollada utilizando Vue Composition API y componentes reutilizables.
+
+### 🌐 Demo
 
 https://dienton82.github.io/Gestor-de-Notas/
 
-------------------------------------------------------------------------
+---
 
-# Flujo de Trabajo
+# ⚙️ Mi flujo de desarrollo
 
-``` text
-Análisis
-   ↓
-Arquitectura
-   ↓
+```text
+Análisis del requerimiento
+            │
+            ▼
 Prompt Engineering
-   ↓
+            │
+            ▼
+Diseño de Arquitectura
+            │
+            ▼
 Desarrollo
-   ↓
+            │
+            ▼
 Debugging
-   ↓
+            │
+            ▼
 Refactorización
-   ↓
+            │
+            ▼
 Documentación
-   ↓
+            │
+            ▼
 Deploy
 ```
 
-------------------------------------------------------------------------
+---
 
-# Estadísticas
+# 💼 En qué tengo experiencia
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=dienton82&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienton82&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=dienton82&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=dienton82&theme=tokyonight&no-frame=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=dienton82&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
+✅ Desarrollo Frontend
 
-------------------------------------------------------------------------
+✅ Desarrollo Full Stack
 
-# Contacto
+✅ React
 
-**Portafolio**
+✅ Next.js
+
+✅ Angular
+
+✅ Vue
+
+✅ TypeScript
+
+✅ JavaScript
+
+✅ Integración de APIs REST
+
+✅ Dashboards Empresariales
+
+✅ Mapas Interactivos
+
+✅ UI/UX
+
+✅ Responsive Design
+
+✅ Arquitectura por Componentes
+
+✅ Inteligencia Artificial aplicada al desarrollo
+
+---
+
+# 📈 Actualmente aprendiendo
+
+- Arquitecturas Frontend Avanzadas
+- Agentes IA
+- Automatización con IA
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- n8n
+- Integración de modelos LLM
+
+---
+
+# 📫 Contacto
+
+📧 **Correo**
+
+**yealvarezg82@gmail.com**
+
+🌐 **Portafolio**
 
 https://portafolio-ya.vercel.app
 
-**LinkedIn**
+💼 **LinkedIn**
 
 https://linkedin.com/in/eduardo-alvarez-ea
 
-**GitHub**
+🐙 **GitHub**
 
 https://github.com/dienton82
 
-**Correo**
+---
 
-yealvarezg82@gmail.com
-
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-Gracias por visitar mi perfil.
-```{=html}
+
+⭐ Gracias por visitar mi perfil.
+
+Siempre estoy abierto a participar en proyectos donde pueda aportar experiencia en Frontend, Full Stack e Inteligencia Artificial aplicada al desarrollo de software.
+
 </p>
-```
