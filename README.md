@@ -1,108 +1,245 @@
-<!-- Banner -->
+```{=html}
 <p align="center">
-  <a href="https://portafolio-ya.vercel.app">
-    <img src="https://github.com/dienton82/portafolio-yeison-alvarez/blob/main/REFLEJOya.png" width="80" alt="Yeison Alvarez Avatar" />
-  </a>
+```
+`<a href="https://portafolio-ya.vercel.app">`{=html}
+`<img src="https://github.com/dienton82/portafolio-yeison-alvarez/blob/main/REFLEJOya.png" width="160" alt="Yeison Alvarez"/>`{=html}
+`</a>`{=html}
+```{=html}
 </p>
-<h1 align="center">👨‍💻 Yeison Alvarez — Desarrollador Web</h1>
+```
+```{=html}
+<h1 align="center">
+```
+Yeison Eduardo Álvarez García
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Frontend Developer · Full Stack · Desarrollo impulsado por Inteligencia
+Artificial
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <b>Frontend + Backend + UI/UX Design</b><br>
-  <i>Ingeniero de Sistemas con enfoque en desarrollo web moderno, diseño funcional y experiencia de usuario.</i>
+```
+`<a href="https://portafolio-ya.vercel.app">`{=html}`<img src="https://img.shields.io/badge/Portafolio-Visitar-2563EB?style=for-the-badge">`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/eduardo-alvarez-ea">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
+`<a href="https://github.com/dienton82">`{=html}`<img src="https://img.shields.io/badge/GitHub-dienton82-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 Tecnologías Principales
+# Perfil
 
+Ingeniero de Sistemas con más de **5 años de experiencia** desarrollando
+aplicaciones web modernas.
+
+Especializado en **React, Next.js, Angular, Vue, TypeScript y
+JavaScript**, con experiencia construyendo dashboards, aplicaciones
+corporativas, integración de APIs REST y soluciones enfocadas en
+rendimiento, mantenibilidad y experiencia de usuario.
+
+Actualmente incorporo herramientas de Inteligencia Artificial para
+acelerar el desarrollo, optimizar procesos y mejorar la calidad del
+software.
+
+------------------------------------------------------------------------
+
+# Desarrollo con Inteligencia Artificial
+
+## Herramientas
+
+-   ChatGPT
+-   Claude
+-   OpenAI Codex
+-   GitHub Copilot
+
+## Aplicaciones
+
+-   Prompt Engineering
+-   Diseño de Arquitectura
+-   Desarrollo Asistido por IA
+-   Refactorización
+-   Debugging
+-   Revisión de Código
+-   Documentación Técnica
+-   Optimización de Rendimiento
+-   Automatización de tareas
+
+------------------------------------------------------------------------
+
+# Stack Tecnológico
+
+## Frontend
+
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS_Modules-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-ECECEC?style=for-the-badge&logo=framer&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shadcn/UI-18181B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </p>
+```
+`<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,sass"/>`{=html}
+```{=html}
+</p>
+```
+## Backend
 
----
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,php,python,java"/>`{=html}
+```{=html}
+</p>
+```
+## Bases de Datos
 
-## 🚀 Proyectos Destacados
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>`{=html}
+```{=html}
+</p>
+```
+## Herramientas
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| 💼 [Portafolio Web](https://github.com/dienton82/portafolio-yeison-alvarez) | Portafolio personal optimizado con Next.js y Tailwind CSS, despliegue en Vercel, animaciones con Framer Motion. | Next.js, TypeScript, TailwindCSS, Vercel | 🌐 [Ver sitio](https://portafolio-ya.vercel.app) |
-| 📝 [Gestor de Notas](https://github.com/dienton82/Gestor-de-Notas) | SPA con Vue 3 y Pinia, CRUD de notas, login JWT, agrupación por fechas, filtros y despliegue en GitHub Pages. | Vue 3, Pinia, Vite | 🌐 [Ver demo](https://dienton82.github.io/Gestor-de-Notas/) |
-| 📄 [Sistema de Facturación PHP](https://github.com/dienton82/facturacion-web) | Gestión de usuarios, cursos, facturación y PDF con autenticación. Ideal para pequeñas empresas. | PHP, MySQL, HTML, CSS | 🌐 [Ver demo](https://web-facturacion.infinityfreeapp.com/index.php?i=1) |
-| 👥 [Gestión de Usuarios Angular](https://github.com/dienton82/proyecto-angular) | App SPA con Angular y RxJS para CRUD de usuarios y perfiles. Pruebas unitarias y E2E. | Angular, Tailwind, RxJS | 🌐 [Ver demo](https://dienton82.github.io/proyecto-angular/users) |
-| ⚙️ [Next.js Multifetch Demo](https://github.com/dienton82/nextjs-multifetch-demo) | Proyecto con múltiples estrategias de renderizado (CSR, SSR, SSG, ISR), consumo de APIs públicas y componentes reutilizables. Ideal para prácticas técnicas. | Next.js, Tailwind CSS, TypeScript | 🌐 [Ver demo](https://nextjs-multifetch-demo.vercel.app/) |
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma"/>`{=html}
+```{=html}
+</p>
+```
 
+------------------------------------------------------------------------
 
----
+# Proyectos Destacados
 
+## Spybee Incident Management Dashboard
 
-## 🌐 Portafolio
+**Next.js · React · TypeScript · Zustand · Mapbox · SCSS**
 
-🔗 Sitio Web: [https://portafolio-ya.vercel.app](https://portafolio-ya.vercel.app)
+Dashboard de gestión de incidencias con mapa interactivo, filtros,
+métricas, persistencia local y diseño responsive.
 
----
+**Demo** https://spybee-frontend-technical-test.vercel.app
 
-## 📈 Vercel Speed Insights
+**Repositorio**
+https://github.com/dienton82/spybee-frontend-technical-test
 
-Este portafolio ha sido optimizado para lograr el mejor rendimiento posible.
+------------------------------------------------------------------------
 
-### ✅ 100 / 100 en Experiencia Real
+## Topaz AI Document Generator
 
-Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes inteligentes con `next/image`, `TailwindCSS`, y `Vercel Edge`.
+**React · TypeScript**
 
-📊 **Métricas clave**:
+Plataforma para generación documental y aceleradores asistidos con IA.
 
-- ⏱️ First Contentful Paint: 0.59s  
-- 📸 Largest Contentful Paint: 1.86s  
-- ⚡ Interaction to Next Paint: 120ms  
-- 🔒 Cumulative Layout Shift: 0  
-- ⚙️ Time to First Byte: 0.1s
+https://documentador-topaz.vercel.app/aceleradores
 
-<img src="https://raw.githubusercontent.com/dienton82/portafolio-yeison-alvarez/f5cd9363152faae683754ae569783931d732dfc9/Speed%20Insights%20100%25.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
+------------------------------------------------------------------------
 
+## BTG Funds Dashboard
 
----
+**Angular**
 
-## 🧠 Áreas de enfoque
+Dashboard financiero construido con Angular.
 
-- Desarrollo Frontend moderno con React / Vue
-- Backends con Node.js, PHP, y bases de datos relacionales y no relacionales
-- Diseño UI/UX responsivo y accesible
-- Despliegue en Vercel y AWS
-- Creación de componentes reutilizables y accesibles
-- Animaciones con CSS Modules, Framer Motion y shadcn/ui
+https://dienton82.github.io/btg-funds-app/
 
----
+------------------------------------------------------------------------
 
-## 📫 Contacto
+## Gestor de Notas
 
-- 📧 Email: [yealvarezg82@gmail.com](mailto:yealvarezg82@gmail.com)
-- 💼 LinkedIn: [Eduardo Álvarez](https://linkedin.com/in/eduardo-alvarez-ea)
-- 🌐 Portafolio: [https://portafolio-ya.vercel.app](https://portafolio-ya.vercel.app)
-- 📱 WhatsApp: [Chatear](https://wa.link/wtk3ys)
-- 📄 Accede a mi [CV completo](https://archivospdfresumen.s3.us-east-2.amazonaws.com/Curriculum_Yeison_Alvarez_Ingeniero_de_Sistemas_Desarrollador_Web.pdf)
+**Vue 3**
 
----
+Aplicación CRUD desarrollada con Vue Composition API.
 
-## 📌 Stats
+https://dienton82.github.io/Gestor-de-Notas/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dienton82&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dienton82&layout=compact&theme=radical)
+------------------------------------------------------------------------
 
----
+# Flujo de Trabajo
 
-> ✨ Gracias por visitar mi perfil.  
-> Estoy abierto a colaboraciones y nuevos desafíos tecnológicos.
+``` text
+Análisis
+   ↓
+Arquitectura
+   ↓
+Prompt Engineering
+   ↓
+Desarrollo
+   ↓
+Debugging
+   ↓
+Refactorización
+   ↓
+Documentación
+   ↓
+Deploy
+```
+
+------------------------------------------------------------------------
+
+# Estadísticas
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=dienton82&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienton82&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=dienton82&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=dienton82&theme=tokyonight&no-frame=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=dienton82&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Contacto
+
+**Portafolio**
+
+https://portafolio-ya.vercel.app
+
+**LinkedIn**
+
+https://linkedin.com/in/eduardo-alvarez-ea
+
+**GitHub**
+
+https://github.com/dienton82
+
+**Correo**
+
+yealvarezg82@gmail.com
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+Gracias por visitar mi perfil.
+```{=html}
+</p>
+```
